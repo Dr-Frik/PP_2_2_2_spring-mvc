@@ -1,4 +1,4 @@
-package web.CarServices;
+package web.cervices;
 import web.models.Car;
 
 import java.util.List;
